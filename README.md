@@ -6,19 +6,14 @@ This is a simple interpreter project.
 
 Clone the repository:
 
-git clone https://github.com/Someone-tensai/Interpreter.git
-
-css
-Copy
-Edit
+- git clone https://github.com/Someone-tensai/Interpreter.git
 
 Navigate to the project directory:
+- cd Interpreter
 
-cd Interpreter
+Make a test.txt file for the language to interpret.
 
-markdown
-Copy
-Edit
+Only numerical support added for now.
 
 Compile and run the interpreter (if applicable).
 
